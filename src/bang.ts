@@ -44208,13 +44208,13 @@ export const bangs = [
     u: "http://gpsies.de/?q={{{s}}}",
   },
   {
-    c: "Online Services",
-    d: "www.google.pt",
+    c: "ChatGPT",
+    d: "www.chatgpt.com/",
     r: 223,
-    s: "Google PT",
-    sc: "Google",
+    s: "ChatGPT",
+    sc: "ChatGPT",
     t: "gpt",
-    u: "https://www.google.pt/search?q={{{s}}}",
+    u: "https://chatgpt.com/?q={{{s}}}",
   },
   {
     c: "News",
